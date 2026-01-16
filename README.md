@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-15 at 20 09 01](https://github.com/user-attachments/assets/12aa8447-091d-4499-8fea-47df5c280b49)![WhatsApp Image 2026-01-16 at 10 53 08](https://github.com/user-attachments/assets/8ff9145f-f94a-4a38-bbd0-c24f586faafc)Social Media Campaign Performance Tracker
+Social Media Campaign Performance Tracker
 📌 Project Overview
 This project focuses on analyzing social media advertising campaign data (Facebook Ads) to evaluate campaign performance, engagement levels, Click Through Rate (CTR), and Return on Investment (ROI).
 An interactive Power BI dashboard is created to help marketing teams understand campaign effectiveness and make data-driven decisions.
